@@ -1,0 +1,118 @@
+body
+{
+	color:blue;
+	background-color:black;
+	font-family:Georgia;
+}
+.wrapper
+{
+	width:460px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:5px;
+	border-radius:5px;
+	background-color:#666;
+}
+.header
+{
+	border-radius:5px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#eeeecc;
+	padding:25px;
+	width:400px;
+	color:#333;
+}
+.container
+{
+	color:#444;
+	margin-left:auto;
+	margin-right:auto;
+	width:400px;
+	padding:25px;
+	border-radius:5px;
+	background-color:white;
+}
+.circle
+{
+	margin-left:auto;
+	margin-right:auto;
+	height:200px;
+	width:200px;
+	background-color:#444;
+	border-radius:200px;
+}
+h1,h2
+{
+	text-align:center;
+}
+.flag
+{
+	margin-left:auto;
+	margin-right:auto;
+	width:300px;
+	height:150px;
+}
+.red
+{
+	height:25px;
+	width:300px;
+	background-color:red;
+}
+.orange
+{
+	height:25px;
+	width:300px;
+	background-color:orange;
+}
+.yellow
+{
+	height:25px;
+	width:300px;
+	background-color:yellow;
+}
+.green
+{
+	height:25px;
+	width:300px;
+	background-color:green;
+}
+.blue
+{
+	height:25px;
+	width:300px;
+	background-color:blue;
+}
+.purple
+{
+	height:25px;
+	width:300px;
+	background-color:purple;
+}
+.lred
+{
+	height:60px;
+	width:300px;
+	background-color:#9e1b34;
+}
+.white
+{
+	height:30px;
+	width:300px;
+	background-color:#ffffff;
+}
+a
+{
+	text-decoration:none;
+	font-family:monospace;
+	color:#000;
+}
+a:hover
+{
+	font-weight:bold;
+	color:#ff0000;
+}
+a:visited
+{
+	color:#666;
+}
